@@ -4,8 +4,6 @@ name: 💡 我有个想法
 description: 建议新功能或改进现有功能
 title: "[建议] "
 labels: ["enhancement"]
-assignees:
-  - sansan0
 body:
   - type: markdown
     attributes:
