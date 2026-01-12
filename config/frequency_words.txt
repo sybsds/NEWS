@@ -1,20 +1,10 @@
 人工智能
-AI机器人
-芯片
-科技
-航空
-创业
-英伟达
-NVIDIAAMD
-自动驾驶
-ai agent
-大语言模型
-openai
-chatgpt
-gemini
-
-大疆
-DJI
-
-VLA
-世界模型
+AI
+机器人
+具身智能
+马斯克
+Elon
+Artificial Intelligence
+Humanoid robot
+Singularity
+低空经济
